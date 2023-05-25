@@ -1,0 +1,15 @@
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\bin\Debug\net6.0\projectf.exe
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\bin\Debug\net6.0\projectf.deps.json
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\bin\Debug\net6.0\projectf.runtimeconfig.json
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\bin\Debug\net6.0\projectf.dll
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\bin\Debug\net6.0\projectf.pdb
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.csproj.AssemblyReference.cache
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.AssemblyInfoInputs.cache
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.AssemblyInfo.cs
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.csproj.CoreCompileInputs.cache
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.dll
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\refint\projectf.dll
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.pdb
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\projectf.genruntimeconfig.cache
+C:\Users\tommi.frykman\Documents\programmering\project\projectfin\projectf\obj\Debug\net6.0\ref\projectf.dll
