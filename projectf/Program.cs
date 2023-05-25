@@ -18,7 +18,7 @@ string foodchoice="";
 
 
 Console.WriteLine($"hey your name is {name}");
-Console.WriteLine($"hej {name}. Where did you eat lunch, max , sub, other?");
+Console.WriteLine($"hi {name}. Where did you eat lunch, max , sub or other?");
 
 
 
@@ -60,12 +60,12 @@ while(foodchoice!="max"&& foodchoice!="sub" && foodchoice!="other")
 
 
 
-
+//methods
 
 void Maxchoice()
 {
 
-  Console.WriteLine("Eh ok... wierd but sure");
+  Console.WriteLine("Eh ok... weird but sure");
   Console.WriteLine(" bad ending eat somewhere else");
   Console.WriteLine("press enter to restart");
   Console.ReadLine();
